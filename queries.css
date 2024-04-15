@@ -1,0 +1,225 @@
+/* rem and em do NOT depend on html font-size in media queries!
+Instead, 1rem = 1em = 16px */
+
+html {
+  overflow-x: hidden;
+}
+
+/*********************************/
+/* BELOW 1491px (Laptop) */
+/*********************************/
+
+@media (max-width: 93.1875rem) {
+  .small-container .col-4 img {
+    width: 204px;
+    height: 204px;
+  }
+
+  .big-container .col-5 img {
+    width: 204px;
+    height: 204px;
+  }
+
+  .heading-secondary {
+    font-size: 2.8rem;
+    line-height: 1.2;
+    margin-bottom: 7.2rem;
+  }
+
+  .subheading {
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .step-number {
+    font-size: 4.2rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .heading-tertiary {
+    font-size: 1.8rem;
+  }
+
+  .step-description {
+    font-size: 1.2rem;
+    line-height: 1.2;
+  }
+
+  .step-img {
+    width: 30%;
+  }
+
+  .step-img-box::before {
+    width: 50%;
+    padding-bottom: 50%;
+  }
+
+  .step-img-box::after {
+    width: 40%;
+    padding-bottom: 40%;
+  }
+
+  .feature-icon {
+    width: 1.6rem;
+    height: 1.6rem;
+    padding: 1.2rem;
+    margin-bottom: 2rem;
+  }
+
+  .feature-title {
+    font-size: 1.4rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .feature-text {
+    font-size: 1.4rem;
+    line-height: 1.1;
+  }
+
+  .cta-text {
+    line-height: 1.1;
+  }
+
+  .cta-form label {
+    margin-bottom: 0.8rem;
+  }
+
+  .footer-logo {
+    width: 70px;
+    margin-top: 20px;
+  }
+
+  .footer-text {
+    font-size: 11px;
+  }
+}
+
+/*********************************/
+/* BELOW 1486px (Laptop) */
+/*********************************/
+
+@media (max-width: 92.875rem) {
+  h1 {
+    font-size: 44px;
+  }
+
+  .col-2 {
+    padding-left: 35px;
+  }
+
+  .col-2 h2 {
+    font-size: 32px;
+  }
+
+  .logo {
+    height: 3rem;
+    width: 3rem;
+    margin-left: 15px;
+  }
+
+  .main-nav {
+    margin-left: 50rem;
+  }
+}
+
+/*********************************/
+/* BELOW 1452px (Laptop) */
+/*********************************/
+
+@media (max-width: 90.75rem) {
+  .cta .heading-CTA {
+    font-size: 2.2rem;
+  }
+
+  .cta-form label {
+    font-size: 1rem;
+  }
+
+  .cta-text {
+    font-size: 1.2rem;
+  }
+
+  .cta-form input,
+  .cta-form select {
+    padding: 1rem;
+  }
+
+  .btn--form {
+    padding: 1rem;
+  }
+
+  .app-logo img {
+    width: 100px;
+  }
+}
+
+/*********************************/
+/* BELOW 1438px (Laptop) */
+/*********************************/
+
+@media (max-width: 89.875rem) {
+  .small-container .col-4 img {
+    width: 191px;
+    height: 191px;
+  }
+
+  .big-container .col-5 img {
+    width: 191px;
+    height: 191px;
+  }
+
+  .app-logo img {
+    width: 100px;
+  }
+
+  .footer-text {
+    line-height: 1.2;
+  }
+
+  .footer-logo {
+    width: 65px;
+    margin-top: 25px;
+  }
+
+  .footer .useful-links {
+    margin-bottom: 40px;
+  }
+
+  .footer .follow-us {
+    margin-bottom: 20px;
+  }
+
+  .download-text {
+    font-size: 12px;
+  }
+
+  .apps-logo {
+    height: 20px;
+    width: 20px;
+  }
+
+  .footer ul li {
+    font-size: 12px;
+    line-height: 1.9;
+  }
+}
+
+/*********************************/
+/* BELOW 1374px (Laptop) */
+/*********************************/
+
+@media (max-width: 85.875rem) {
+  .main-nav {
+    margin-left: 45rem;
+  }
+
+  .small-container .col-4 img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .big-container .col-5 img {
+    width: 180px;
+    height: 180px;
+  }
+}
