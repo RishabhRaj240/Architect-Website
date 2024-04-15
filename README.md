@@ -1,13 +1,19 @@
+# Architect Website made form HTML, CSS and JAVASCRIPT
+
 This is an Architect Website designed by using HTML and CSS.
 I made and designed this website alone on 7/03/24 and started this project two or three days before.
 On many steps I faced challenges like how to insert text on image section and on some styling process.
 Many things I have learned from one of the course on Udemy from Jonas Schmedtmann and he is really a great teacher.
-![Screenshot (310)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/85b11447-cf4d-4061-b45d-c2dc5ffd1590)
-![Screenshot (311)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/13874080-d74a-4c7d-b249-be3c1872fde3)
-![Screenshot (313)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/e785dfad-6b96-44f4-bf84-e9479f9bd949)
-![Screenshot (315)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/a78c97c7-4466-46ee-9cab-a9e7f209edef)
-![Screenshot (316)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/780cdc56-463a-4dcc-bfda-2229db953b50)
-![Screenshot (317)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/dae451ee-2f33-4426-81af-d03701eb8a0a)
-![Screenshot (318)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/7a2dc1a9-6da1-4af4-96fc-f400b6ced4de)
-![Screenshot (319)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/f3b5ba23-7ca1-439d-a09b-5a5161111dc0)
-![Screenshot (320)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/97bceeb6-9688-4ef0-bec7-d8a898612285)
+
+![Screenshot (480)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/3c08774b-af10-41e0-b7f5-81b9b66b293d)
+![Screenshot (481)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/7637d826-18af-4928-bd50-a404c72c726c)
+![Screenshot (482)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/9585f9f6-d391-4c2d-8c85-c07d03016d2f)
+![Screenshot (483)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/9a9141a6-ff4a-47c8-865f-f6dc0c5a0127)
+![Screenshot (484)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/1b936c87-5c98-4522-9cc9-3f21f971f6d3)
+![Screenshot (485)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/4128d8fa-c8d9-479b-be2c-aa8f59107422)
+![Screenshot (486)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/eb07f308-84cd-48ea-a968-1e916c10fcc8)
+![Screenshot (487)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/ea17c7de-5a4e-473d-8867-b29eb01150a1)
+![Screenshot (488)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/e1c2ecbd-e8e1-46a3-a3d0-be314716cf4f)
+![Screenshot (489)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/5b89a086-07a4-4c9f-89da-38476ef82755)
+![Screenshot (490)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/6157c278-0bc8-4aef-b5ee-210491345dd0)
+![Screenshot (491)](https://github.com/RishabhRaj240/Architect-Website/assets/155876855/68181bbc-1182-4e3a-825d-65d04ca4471e)
